@@ -1,0 +1,70 @@
+body{
+    background: url("back.jpg");
+    background-size: cover;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+h1{
+  font-family: "Bradley Hand ITC";
+  font-size: 3.5em;
+}
+h2{
+    font-family: Aharoni;
+}
+div{
+    margin: auto;
+    height: 250px;
+    width: 750px;
+    text-align: center;
+    position: relative;
+    display: table;
+    table-layout: fixed;
+}
+.home1{
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+.aboutme2{
+    float: left;
+    width: 250px;
+    display: table-cell;
+}
+.contact3{
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+.profile4{
+    float: left;
+    width: 250px;
+    height: 250px;
+    display: flex;
+}
+.hello5 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 250px;
+    float: left;
+}
+.education6{
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+.work7{
+    float: left;
+    width: 250px;
+    position: relative;
+
+}
+.project8{
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+
+
+
